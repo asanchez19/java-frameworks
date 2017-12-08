@@ -1,0 +1,18 @@
+2017-09-09 15:00:22,589 [main] DEBUG  junit.JUnitSpringTest - -----> SETUP <-----
+2017-09-09 15:00:22,597 [main] INFO   a.c.u.s.aspect.LoggingAspect - @Before class: class ac.cr.una.springaoplogging.service.OrderServiceImpl method: getOrder
+2017-09-09 15:00:22,598 [main] INFO   a.c.u.s.aspect.LoggingAspect - @After class: class ac.cr.una.springaoplogging.service.OrderServiceImpl method: getOrder
+2017-09-09 15:00:22,598 [main] INFO   a.c.u.s.aspect.LoggingAspect - @Before class: class ac.cr.una.springaoplogging.service.OrderServiceImpl method: getOrder
+2017-09-09 15:00:22,598 [main] INFO   a.c.u.s.aspect.LoggingAspect - @After class: class ac.cr.una.springaoplogging.service.OrderServiceImpl method: getOrder
+2017-09-09 15:00:22,601 [main] DEBUG  junit.JUnitSpringTest - -----> DESTROY <-----
+2017-09-09 15:00:22,603 [main] DEBUG  junit.JUnitSpringTest - -----> SETUP <-----
+2017-09-09 15:00:22,603 [main] INFO   a.c.u.s.aspect.LoggingAspect - @Before class: class ac.cr.una.springaoplogging.service.OrderServiceImpl method: getOrderStringCode
+2017-09-09 15:00:22,603 [main] INFO   a.c.u.s.aspect.LoggingAspect - @After class: class ac.cr.una.springaoplogging.service.OrderServiceImpl method: getOrderStringCode
+2017-09-09 15:00:22,603 [main] DEBUG  junit.JUnitSpringTest - -----> DESTROY <-----
+2017-09-09 15:00:22,604 [main] DEBUG  junit.JUnitSpringTest - -----> SETUP <-----
+2017-09-09 15:00:22,604 [main] INFO   a.c.u.s.aspect.LoggingAspect - @Before class: class ac.cr.una.springaoplogging.service.OrderServiceImpl method: getOrderDescription
+2017-09-09 15:00:22,604 [main] INFO   a.c.u.s.aspect.LoggingAspect - @After class: class ac.cr.una.springaoplogging.service.OrderServiceImpl method: getOrderDescription
+2017-09-09 15:00:22,604 [main] DEBUG  junit.JUnitSpringTest - -----> DESTROY <-----
+2017-09-09 15:00:22,605 [main] DEBUG  junit.JUnitSpringTest - -----> SETUP <-----
+2017-09-09 15:00:22,606 [main] INFO   a.c.u.s.aspect.LoggingAspect - @Before class: class ac.cr.una.springaoplogging.service.OrderServiceImpl method: createOrder
+2017-09-09 15:00:22,606 [main] INFO   a.c.u.s.aspect.LoggingAspect - @After class: class ac.cr.una.springaoplogging.service.OrderServiceImpl method: createOrder
+2017-09-09 15:00:22,606 [main] DEBUG  junit.JUnitSpringTest - -----> DESTROY <-----

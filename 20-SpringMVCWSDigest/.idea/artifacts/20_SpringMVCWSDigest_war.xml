@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="20-SpringMVCWSDigest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringMVCWSDigest.war">
+      <element id="artifact" artifact-name="20-SpringMVCWSDigest:war exploded" />
+    </root>
+  </artifact>
+</component>
